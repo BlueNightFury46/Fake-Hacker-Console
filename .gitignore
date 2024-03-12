@@ -11,7 +11,10 @@
 *.sln.docstates
 
 # Other test files
+Saves/Password.cs
 Password.cs
+Test.cs
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
