@@ -10,6 +10,9 @@
 *.userosscache
 *.sln.docstates
 
+# Other test files
+Password.cs
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
